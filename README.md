@@ -1,1 +1,1 @@
-#This is intelliqittrainings Demo Project
+#This is GIT Demo Project

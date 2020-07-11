@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To IntelliQ IT World</h1>
+<h1>Welcome To GIT Demo Project</h1>
 </body>
 <body style="color:red;">
  <div class="container">
