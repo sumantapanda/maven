@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To GIT Demo Project</h1>
+<h1>Welcome To GIT,JENKINS and Application Server Integration to DevOps Project</h1>
 </body>
 <body style="color:red;">
  <div class="container">
